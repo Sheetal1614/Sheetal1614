@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Sheetal1614/Sheetal1614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Header](https://github.com/Sheetal1614/Sheetal1614/blob/main/images/hello-world-header.png)
+# Hey there!👋
+
 My name is Sheetal. I am incoming SDE @Mckinsey & Company.
 ## &#x270d;
 
