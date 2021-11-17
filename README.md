@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 # Hey there!👋
 
 My name is Sheetal. I am incoming SDE @Mckinsey & Company.
-## &#x270d;
 
 ## 🔧 Langueages & Tools
 <p align='left'>
