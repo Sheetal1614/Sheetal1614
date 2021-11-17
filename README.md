@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](.png)
+![Header](https://github.com/Sheetal1614/Sheetal1614/blob/main/images/hello-world-header.png.png)
 My name is Sheetal. I am incoming SDE @Mckinsey & Company.
 ## &#x270d;
 
@@ -24,7 +24,7 @@ My name is Sheetal. I am incoming SDE @Mckinsey & Company.
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-<img src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg#/media/File:ISO_C++_Logo.svg"alt="cpp" width="auto" height="40" />
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"alt="cpp" width="auto" height="40" />
 
 ## 🔗 &nbsp;**Connect with me**
 <p align="left">
