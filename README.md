@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 # Hey there!👋
 
 My name is Sheetal. 
-Incoming SDE @Mckinsey & Company.
+<p>Incoming SDE @Mckinsey & Company. </p>
 
-## 🔧 Langueages & Tools
+## 🔧 Languages & Tools
 <p align='left'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
