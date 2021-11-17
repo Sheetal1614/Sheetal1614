@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/Sheetal1614/Sheetal1614/blob/main/images/hello-world-header.png.png)
+![Header](https://github.com/Sheetal1614/Sheetal1614/blob/main/images/hello-world-header.png)
 My name is Sheetal. I am incoming SDE @Mckinsey & Company.
 ## &#x270d;
 
