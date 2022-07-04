@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hey there!👋
 
 My name is Sheetal. 
-<p>Incoming SDE @Mckinsey & Company. </p>
+<p>SDE @Mckinsey & Company. </p>
 
 ## 🔧 Languages & Tools
 <p align='left'>
