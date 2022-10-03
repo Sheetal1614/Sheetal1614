@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ![Header](https://github.com/Sheetal1614/Sheetal1614/blob/main/images/hello-world-header.png)
 # Hey there!👋
 
-My name is Sheetal. 
-<p>SD @Mckinsey & Company. </p>
+
+
 
 ## 🔧 Languages & Tools
 <p align='left'>
